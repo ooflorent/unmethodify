@@ -1,0 +1,17 @@
+{
+  "name": "unmethodify",
+  "version": "1.0.0",
+  "description": "Unmethodify functions",
+  "keywords": [
+    "function",
+    "method"
+  ],
+  "author": "Florent Cailhol <florent.cailhol@gmail.com>",
+  "license": "MIT",
+  "repository": "ooflorent/unmethodify",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ]
+}
